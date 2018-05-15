@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Hesora1</string>
+    <string name="imagedesc">Paveikslai</string>
+
+    <string name="button_Foto">Foto</string>
+    <string name="button_katalogas">Katalogas</string>
+    <string name="button_partneriai">Partneriai</string>
+    <string name="button_kontaktai">Kontaktai</string>
+
+    <string name="adresas">Klevų g. 51, 3844 Vaivadai Panevėžio raj.</string>
+    <string name="telefonas">Tel.: +370 45 444714</string>
+    <string name="pastas">hesora@hesora.lt</string>
+
+    <string name="Google_Maps_API_key">AIzaSyB7JsJmnbxc7n0wuurryDfYYRRdoQroix0</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_kontaktai_maps">Map</string>
+
+
+</resources>
+
+
